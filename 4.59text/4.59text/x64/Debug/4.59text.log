@@ -1,0 +1,13 @@
+﻿  源.cpp
+D:\program\4.59text\4.59text\源.cpp(30,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\program\4.59text\4.59text\源.cpp(30,10): message : 占位符和其参数预计 3 可变参数，但提供的却是 0 参数
+D:\program\4.59text\4.59text\源.cpp(30,10): message : 缺失的可变参数 1 为格式字符串“%s”所需
+D:\program\4.59text\4.59text\源.cpp(30,10): message : 此参数由转换说明符使用
+D:\program\4.59text\4.59text\源.cpp(31,9): warning C4477: “printf”: 格式字符串“%c”需要类型“int”的参数，但可变参数 1 拥有了类型“char *”
+D:\program\4.59text\4.59text\源.cpp(31,9): warning C4313: "printf": 格式字符串中的 "%c" 与类型为 "char *" 的参数 1 冲突
+D:\program\4.59text\4.59text\源.cpp(36,6): error C2086: “int ber”: 重定义
+D:\program\4.59text\4.59text\源.cpp(28): message : 参见“ber”的声明
+D:\program\4.59text\4.59text\源.cpp(39,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+D:\program\4.59text\4.59text\源.cpp(39,9): message : 占位符和其参数预计 3 可变参数，但提供的却是 1 参数
+D:\program\4.59text\4.59text\源.cpp(39,9): message : 缺失的可变参数 2 为格式字符串“%*s”所需
+D:\program\4.59text\4.59text\源.cpp(39,9): message : 此参数由转换说明符使用
