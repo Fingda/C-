@@ -1,0 +1,4 @@
+﻿  name3.c
+D:\program\4.86text\4.86text\name3.c(21,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+D:\program\4.86text\4.86text\name3.c(22,9): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  4.86text.vcxproj -> D:\program\4.86text\x64\Debug\4.86text.exe
