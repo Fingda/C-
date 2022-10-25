@@ -1,0 +1,3 @@
+﻿D:\c\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(5.1 shoes1.c.vcxproj, shoes1.c.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  shoes1.c
+  5.1 shoes1.c.vcxproj -> D:\program\Chapter 5\5.1 shoes1.c\x64\Debug\5.1shoes1.c.exe
