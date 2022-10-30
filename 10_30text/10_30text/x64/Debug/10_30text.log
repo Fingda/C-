@@ -1,0 +1,4 @@
+﻿  text.c
+D:\program\10_30text\10_30text\text.c(24,1): warning C4113: “char *(__cdecl *)(char *,const char *)”和“char (__cdecl *)(char,char)”的参数列表不同
+D:\program\10_30text\10_30text\text.c(24,1): warning C4047: “初始化”:“char (__cdecl *)(char,char)”与“char *(__cdecl *)(char *,const char *)”的间接级别不同
+D:\program\10_30text\10_30text\text.c(25,33): error C2075: "pfArr": 初始化需要带括号的初始化表达式列表
